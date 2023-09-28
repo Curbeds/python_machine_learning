@@ -11,4 +11,10 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
 
 ## Basic Usage
 1. [Jupyter Notebook quick start guide](https://github.com/Curbeds/python_machine_learning/blob/master/first_note.ipynb)
-    * [video demo](https://www.youtub
+    * [video demo](https://www.youtube.com/watch?v=zv70jBjDNI4&index=1&list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0)
+
+2. [Reading files and data into notebook](https://github.com/Curbeds/python_machine_learning/blob/master/read_files_and_data.ipynb)
+    * [video demo](https://www.youtube.com/watch?v=R53JW3AgBFc&index=2&list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0)
+    
+3. [Exploring data in notebook](https://github.com/Curbeds/python_machine_learning/blob/master/exploring_data_in_notebook.ipynb)
+    * [video demo](https://www.youtube.com/wa
