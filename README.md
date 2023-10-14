@@ -17,4 +17,14 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     * [video demo](https://www.youtube.com/watch?v=R53JW3AgBFc&index=2&list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0)
     
 3. [Exploring data in notebook](https://github.com/Curbeds/python_machine_learning/blob/master/exploring_data_in_notebook.ipynb)
-    * [video demo](https://www.youtube.com/wa
+    * [video demo](https://www.youtube.com/watch?v=wm17vdvw9Pg)
+    
+
+4. [Simple linear regression](https://github.com/Curbeds/python_machine_learning/blob/master/simple_linear_regression.ipynb)
+    * [video demo](https://www.youtube.com/watch?v=yzDMgxIuCgs)
+    
+5. [Generalized linear regression](https://github.com/Curbeds/python_machine_learning/blob/master/generalized_linear_regression.ipynb)
+    * [video demo](https://www.youtube.com/watch?v=_ZL3U2tuDkM)
+    
+
+6. [Logistic Regression and Support Vector Machine
