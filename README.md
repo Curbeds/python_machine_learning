@@ -27,4 +27,10 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     * [video demo](https://www.youtube.com/watch?v=_ZL3U2tuDkM)
     
 
-6. [Logistic Regression and Support Vector Machine
+6. [Logistic Regression and Support Vector Machine](https://github.com/Curbeds/python_machine_learning/blob/master/logistic_regression_and_support_vector_machine.ipynb)
+    * [video demo](https://www.youtube.com/watch?v=Mh3fNANEqBY)
+
+7. [K-Nearest Neighbors](https://github.com/Curbeds/python_machine_learning/blob/master/k_nearest_neighbors.ipynb)
+    * [video demo](https://www.youtube.com/watch?v=nIKwqExPWbo)
+
+8. [Naive Bayes](https://github.com/Curbeds/python_machine_learning/blob/master/naive_bayes.ipyn
