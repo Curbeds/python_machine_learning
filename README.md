@@ -42,4 +42,10 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
 10. [Neural Networks](https://github.com/Curbeds/python_machine_learning/blob/master/neural_networks.ipynb)
     * [video demo](https://www.youtube.com/watch?v=qXhRbO7PGew)
     
-11. [K-Means C
+11. [K-Means Clustering](https://github.com/Curbeds/python_machine_learning/blob/master/k_means.ipynb)
+    * [video demo](https://www.youtube.com/watch?v=aKFp5OzdQ0M)
+    
+12. [A Simple Example of Analyzing COVID-19 Data in Python](https://github.com/Curbeds/python_machine_learning/blob/master/COVID_19_Data_Analysis.ipynb)
+
+13. [Analyze Twitter Data with OpenAI V1](https://github.com/Curbeds/python_machine_learning/blob/master/Analyze_Tweets_with_OpenAI_v1.ipynb)
+    * [video demo](https://youtu.be/5T9-NIIImTo)
